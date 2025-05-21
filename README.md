@@ -5,7 +5,7 @@
 
 <!-- Profile Badges -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="discord.com/users/847851585706393652"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Asphalt9-FastAF-red?style=for-the-badge&logo=car&logoColor=white"/></a>
 </p>
 
