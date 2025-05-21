@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&duration=4000&pause=1000&center=true&width=460&lines=Hey%2C+I%27m+RokyXxX!;aka+Joy+Boy;Sun+God+?+No,+I'm+The+VBA+Noob!;Math%2C+Rust%2C+Hacking+%26+More..." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&duration=4000&pause=1000&center=true&width=460&lines=Hey%2C+I%27m+RokyBeast!;aka+Joy+Boy;Sun+God+?+No,+I'm+The+VBA+Noob!;Math%2C+Rust%2C+Hacking+%26+More..." alt="Typing SVG"/>
 </p>
 
 <!-- Profile Badges -->
@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-I'm **RokyXxX** a special person, who is truly dumb, as I work with VBA..
+I'm **RokyBeast** a special person, who is truly dumb, as I work with VBA..
 I'm currently learning cryptography, to heck stuff, and Math, coz I live in Asia. 
  I have a Microsoft E5 Developer Account, its cool I guess.
  That's pretty much **about me**, sooo-
@@ -49,14 +49,14 @@ I'm currently learning cryptography, to heck stuff, and Math, coz I live in Asia
 |--------|-------------|--------|
 | **CursorAPI** | Detects cursor hover, clicks, and XY | 🚧 In progress |
 | **Dripo** | Custom VBA scripting language | ⏸ Paused |
-| **IOEngine** | Input & Output system: [GitHub Link](https://github.com/RokyXxX/IOEngine) | ✅ Stable v1 |
+| **IOEngine** | Input & Output system: [GitHub Link](https://github.com/rokybeastt/IOEngine) | ✅ Stable v1 |
 | **BromineOS** | Custom VBA scripting language | ⏸ Paused |
 
 ---
 
 ### 🔥 What I want to say
 > “I code in the best language ever made, VBA, I definetly have no regrets 😀”  
-> — *RokyXxX, help me*
+> — *Rokybeast, help me*
 
 ---
 
@@ -67,7 +67,7 @@ I'm currently learning cryptography, to heck stuff, and Math, coz I live in Asia
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RokyXxX&show_icons=true&theme=dark&hide=prs&count_private=true" alt="RokyXxX's stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rokybeastt&show_icons=true&theme=dark&hide=prs&count_private=true" alt="rokybeastt's stats"/>
 </p>
 
 ---
