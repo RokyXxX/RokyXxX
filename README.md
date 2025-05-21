@@ -49,7 +49,7 @@ I'm currently learning cryptography, to heck stuff, and Math, coz I live in Asia
 |--------|-------------|--------|
 | **CursorAPI** | Detects cursor hover, clicks, and XY | 🚧 In progress |
 | **Dripo** | Custom VBA scripting language | ⏸ Paused |
-| **IOEngine** | Input & Output system with full modularity | ✅ Stable v1 |
+| **IOEngine** | Input & Output system [GitHub Link](github.com/RokyXxX/IOEngine) | ✅ Stable v1 |
 | **BromineOS** | Custom VBA scripting language | ⏸ Paused |
 
 ---
