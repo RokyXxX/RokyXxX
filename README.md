@@ -40,7 +40,7 @@ I'm currently learning cryptography, to heck stuff, and Math, coz I live in Asia
 - 💡 Invented: `CursorEngine`, `Dripo`, `IOEngine`, `BromineOS`
 - 🎯 Mission: Build `structure` and be satisfied by it :D
 - 🧠 Goal: Leave working with VBA, and get a life
-- 🎮 As A Human: Playing **Asphalt Legends Unite**, watching **One Piece** & **The Simpsons**
+- 🎮 As A Human: Playing **Asphalt Legends Unite**, completed **One Piece** & **The Simpsons**
 
 ---
 
